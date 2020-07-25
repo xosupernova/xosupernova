@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
-    - cron: '38 22 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
@@ -14,6 +14,3 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: <username>
-          SHOW_TITLE: true
