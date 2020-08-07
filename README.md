@@ -50,6 +50,13 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 10 mins   ███████████░░░░░░░░░░░░░░   46.19 % 
+JSON         1 hr            █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Lua          57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Text         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Git Config   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+```
 <!--END_SECTION:waka-->
 
 ### Show some ❤️ by starring some of the repositories!
