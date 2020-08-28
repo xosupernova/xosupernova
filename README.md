@@ -1,4 +1,4 @@
-## Hey, I'm [Jack!](https://heyjack.info) 👋
+## Hey, I'm [Jack!](https://heyjack.info) <img src="https://raw.githubusercontent.com/therealheyjack/therealheyjack/master/wave.gif" width="30px">
 
 <details><summary>Info</summary>
 <p>
@@ -45,20 +45,15 @@
 <p>
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   5 hrs 34 mins   ███████████████░░░░░░░░░░   60.33 % 
-JSON         1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Other        47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Bash         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-YAML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-```
 <!--END_SECTION:waka-->
 </p>
 </details>
 
-#### Spotify Playing Now
+<details><summary>Spotify</summary>
+<p>
 
-[<img src="https://readme-spotify-status.heyjack.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/h0sd8uxnbq3rs51ob32cqilmn)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h0sd8uxnbq3rs51ob32cqilmn&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=h0sd8uxnbq3rs51ob32cqilmn&redirect=true)
+</p>
+</details>
 
 ### Show some ❤️ by starring some of the repositories!
