@@ -21,6 +21,7 @@
 [![Linkedin: HeyJack0001](https://img.shields.io/badge/-HeyJack0001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HeyJack0001/)](https://www.linkedin.com/in/HeyJack0001/)
 [![GitHub therealheyjack](https://img.shields.io/github/followers/therealheyjack?label=follow&style=social)](https://github.com/therealheyjack)
 [![website](https://img.shields.io/badge/PortfolioWebsite-heyjack.info-2648ff?style=flat-square&logo=google-chrome)](https://heyjack.info/)
+[![discord](https://img.shields.io/badge/Discord-HeyJack%230001-7289DA?logo=discord)](https://discordapp.com/users/203317216106512384)
 </p>
 </details>
 
