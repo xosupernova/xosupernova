@@ -55,7 +55,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 163 Contributions in the Year 2020
+> 🏆 164 Contributions in the Year 2020
  > 
 > 📦 107.7 kB Used in Github's Storage 
  > 
@@ -94,17 +94,16 @@ Sunday       28 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     27 mins             ████████████████████████░   95.88% 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TheRealHeyJack           29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
