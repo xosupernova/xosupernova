@@ -94,20 +94,16 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               1 hr 25 mins        ████████████████████░░░░░   82.35% 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-discordjs-v13-bot        1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -128,7 +124,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/06/2021
+ Last Updated on 30/06/2021
 <!--END_SECTION:waka-->
 </p>
 </details>
