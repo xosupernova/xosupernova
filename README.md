@@ -127,7 +127,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 </p>
 </details>
