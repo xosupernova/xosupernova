@@ -94,16 +94,20 @@ Sunday       16 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 12 mins        ███████████████████░░░░░░   77.97% 
+Other                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    1 hr 32 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Sky                      1 hr 32 mins        █████████████████████████   99.99% 
+Sky.Net                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 32 mins        █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +128,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2021
+ Last Updated on 21/08/2021
 <!--END_SECTION:waka-->
 </p>
 </details>
