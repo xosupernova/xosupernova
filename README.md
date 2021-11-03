@@ -57,7 +57,7 @@
 
 > 🏆 94 Contributions in the Year 2021
  > 
-> 📦 120.1 kB Used in GitHub's Storage 
+> 📦 120.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -124,7 +124,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2021
+ Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
 </p>
 </details>
