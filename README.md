@@ -51,6 +51,8 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -94,21 +96,16 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSX                      1 hr 21 mins        ██████████████░░░░░░░░░░░   56.31% 
-JavaScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
-Prisma                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.1% 
-.env file                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 2 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-website                  2 hrs 20 mins       ████████████████████████░   97.72% 
-devat-next-auth-yt       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
