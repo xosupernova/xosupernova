@@ -51,13 +51,13 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 106 Contributions in the Year 2021
+> 🏆 103 Contributions in the Year 2021
  > 
 > 📦 120.8 kB Used in GitHub's Storage 
  > 
