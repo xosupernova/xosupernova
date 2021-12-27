@@ -112,11 +112,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            █████████████░░░░░░░░░░░░   52.63% 
-Lua                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+JavaScript               10 repos            ████████████░░░░░░░░░░░░░   50.0% 
+Lua                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
