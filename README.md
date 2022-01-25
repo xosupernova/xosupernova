@@ -51,7 +51,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,7 +59,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 121.0 kB Used in GitHub's Storage 
+> 📦 121.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,7 +126,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 19:34:34 UTC
+ Last Updated on 25/01/2022 21:34:53 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
