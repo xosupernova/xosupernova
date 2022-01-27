@@ -51,7 +51,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -131,7 +131,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 05:34:01 UTC
+ Last Updated on 27/01/2022 06:38:37 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
