@@ -50,9 +50,9 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
@@ -129,7 +129,7 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 14:33:35 UTC
+ Last Updated on 30/01/2022 16:41:32 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
