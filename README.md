@@ -136,7 +136,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 <details><summary>Spotify</summary>
 <p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h0sd8uxnbq3rs51ob32cqilmn&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=h0sd8uxnbq3rs51ob32cqilmn&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h0sd8uxnbq3rs51ob32cqilmn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 </p>
 </details>
 
