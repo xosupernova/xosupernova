@@ -3,10 +3,9 @@
 <details><summary>Info</summary>
 <p>
 
-- 🔭 I’m currently working on [Blade](https://github.com/BladeBot/Blade).
-- 🌱 I’m currently learning NodeJS / TypeScript.
+- 🔭 I’m currently working on [My Portfolio](https://github.com/).
+- 🌱 I’m currently learning TypeScript / C#.
 - 🏫 I’m currently studying [BSc (Honours) Computing and IT (Communications and Networking)](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-communications-networking-q62-cnet)
-- 👯 I’m looking to collaborate on [Blade](https://github.com/BladeBot/Blade).
 - 💬 Ask me about Game Hosting.
 - 📫 How to reach me: [Twitter - @HeyJack0001](https://twitter.com/HeyJack0001)
 - 😄 Pronouns: He/His
