@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -95,16 +95,20 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 17 mins        ████████████░░░░░░░░░░░░░   48.9% 
+YAML                     52 mins             ████████░░░░░░░░░░░░░░░░░   33.21% 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+.env file                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.52% 
+yarn.lock                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 2 hrs 38 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+twitch-bot               2 hrs 38 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +128,7 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/03/2022 23:34:50 UTC
+ Last Updated on 09/03/2022 04:39:37 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
