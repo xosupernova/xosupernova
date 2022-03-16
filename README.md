@@ -95,20 +95,16 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ████████████░░░░░░░░░░░░░   48.9% 
-YAML                     52 mins             ████████░░░░░░░░░░░░░░░░░   33.21% 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-.env file                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.52% 
-yarn.lock                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 2 hrs 38 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-twitch-bot               2 hrs 38 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -128,7 +124,7 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/03/2022 23:34:47 UTC
+ Last Updated on 16/03/2022 03:36:42 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
