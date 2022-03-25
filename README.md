@@ -50,6 +50,8 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -93,16 +95,20 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       12 mins             ██████████████████████░░░   90.67% 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   13 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+igseat                   10 mins             ███████████████████░░░░░░   77.74% 
+Unknown Project          3 mins              █████░░░░░░░░░░░░░░░░░░░░   22.26%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +128,7 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/03/2022 00:47:44 UTC
+ Last Updated on 25/03/2022 02:02:37 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
