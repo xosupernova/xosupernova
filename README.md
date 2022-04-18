@@ -50,13 +50,15 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 4 Contributions in the Year 2022
  > 
-> 📦 81.8 kB Used in GitHub's Storage 
+> 📦 81.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,16 +95,22 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               20 mins             ██████████████░░░░░░░░░░░   58.38% 
+JSON                     9 mins              ███████░░░░░░░░░░░░░░░░░░   28.52% 
+yarn.lock                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 34 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+i69                      27 mins             ████████████████████░░░░░   79.94% 
+spotify-clone            4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  34 mins             █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +130,7 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/04/2022 23:35:25 UTC
+ Last Updated on 18/04/2022 02:14:29 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
