@@ -50,6 +50,8 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2050%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -93,16 +95,16 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fuck-zack                1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -122,7 +124,7 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/04/2022 23:35:22 UTC
+ Last Updated on 01/05/2022 00:48:12 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
