@@ -50,13 +50,15 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2050%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 6 Contributions in the Year 2022
  > 
-> 📦 81.8 kB Used in GitHub's Storage 
+> 📦 81.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,7 +124,7 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/05/2022 23:36:11 UTC
+ Last Updated on 05/05/2022 00:48:32 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
