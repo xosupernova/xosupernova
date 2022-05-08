@@ -56,8 +56,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 11 Contributions in the Year 2022
- > 
 > 📦 82.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -131,7 +129,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheRealHeyJack/TheRealHeyJack/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/05/2022 19:33:19 UTC
+ Last Updated on 08/05/2022 20:35:59 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
