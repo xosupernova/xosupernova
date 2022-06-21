@@ -58,7 +58,7 @@
 
 > 🏆 15 Contributions in the Year 2022
  > 
-> 📦 82.3 kB Used in GitHub's Storage 
+> 📦 82.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -129,7 +129,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 11:35:00 UTC
+ Last Updated on 21/06/2022 12:47:20 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
