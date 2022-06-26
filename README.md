@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -58,7 +58,7 @@
 
 > 🏆 15 Contributions in the Year 2022
  > 
-> 📦 82.2 kB Used in GitHub's Storage 
+> 📦 82.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -129,7 +129,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/06/2022 23:34:45 UTC
+ Last Updated on 26/06/2022 00:48:30 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
