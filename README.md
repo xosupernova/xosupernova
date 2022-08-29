@@ -95,20 +95,16 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-HTML                     1 hr 13 mins        ██████████████████░░░░░░░   72.3% 
-CSS                      21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16% 
-PHP                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.18% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 1 hr 41 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-OrbitNode                1 hr 40 mins        █████████████████████████   99.81% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -127,7 +123,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/08/2022 23:35:58 UTC
+ Last Updated on 29/08/2022 00:48:56 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
