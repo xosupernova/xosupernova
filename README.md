@@ -50,19 +50,19 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 15 Contributions in the Year 2022
+> 🏆 16 Contributions in the Year 2022
  > 
 > 📦 82.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -116,9 +116,10 @@ Windows                  24 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████████████░░░░░░░░░   66.67% 
-Lua                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+JavaScript               6 repos             ███████████████░░░░░░░░░░   60.0% 
+Lua                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+PowerShell               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
@@ -128,7 +129,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 00:48:09 UTC
+ Last Updated on 14/09/2022 02:18:48 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
