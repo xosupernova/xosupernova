@@ -95,19 +95,16 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     21 mins             ████████████████████░░░░░   80.53% 
-GitIgnore file           3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.86%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lunas-portfolio          23 mins             █████████████████████░░░░   86.4% 
-Unknown Project          3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.6%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -127,7 +124,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/10/2022 23:40:37 UTC
+ Last Updated on 13/10/2022 00:49:40 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
