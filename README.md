@@ -58,7 +58,7 @@
 
 > 🏆 16 Contributions in the Year 2022
  > 
-> 📦 551.1 kB Used in GitHub's Storage 
+> 📦 551.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,17 +95,16 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Bash                     1 hr 48 mins        ██████████████████████░░░   90.99% 
-Shell Script             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 59 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Bash-Scripts             1 hr 59 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -125,7 +124,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2022 23:40:31 UTC
+ Last Updated on 24/10/2022 00:49:56 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
