@@ -56,8 +56,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 18 Contributions in the Year 2022
- > 
 > 📦 551.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -132,7 +130,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 15:38:06 UTC
+ Last Updated on 08/11/2022 16:43:49 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
