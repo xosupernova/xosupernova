@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -124,7 +124,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/01/2023 16:39:12 UTC
+ Last Updated on 17/01/2023 17:33:43 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
