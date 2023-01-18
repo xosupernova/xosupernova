@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,16 +95,24 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.72% 
+HTTP Request             1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59% 
+JSON                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+.env file                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+SQL                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.58%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 5 hrs 53 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+garfield                 3 hrs 19 mins       ██████████████░░░░░░░░░░░   56.26% 
+garfield-API             2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   37.08% 
+garfield-bot             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.58% 
+orbitnode-bot            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +132,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2023 00:47:52 UTC
+ Last Updated on 18/01/2023 02:02:55 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
