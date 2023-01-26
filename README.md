@@ -95,19 +95,16 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-.env file                12 mins             ██████████████░░░░░░░░░░░   57.13% 
-JavaScript               6 mins              ███████░░░░░░░░░░░░░░░░░░   30.21% 
-Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-garfield                 22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -127,7 +124,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/01/2023 00:47:44 UTC
+ Last Updated on 26/01/2023 02:01:12 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
