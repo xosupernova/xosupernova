@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -95,16 +95,20 @@ Sunday           3 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               28 mins             ████████████████░░░░░░░░░   67.20 % 
+JSON                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+ESLint File              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+garfield                 41 mins             ████████████████████████░   99.41 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  41 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -124,7 +128,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/02/2023 00:48:17 UTC
+ Last Updated on 13/02/2023 02:03:32 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
