@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,16 +93,22 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               41 mins             █████████████████░░░░░░░░   67.49 % 
+GitIgnore file           10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+AUTO_DETECTED            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+egg                      53 mins             ██████████████████████░░░   87.62 % 
+whenlan                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +127,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2023 23:32:21 UTC
+ Last Updated on 17/04/2023 00:46:50 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
