@@ -60,7 +60,7 @@
  > 
 > 🏆 1 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
@@ -121,7 +121,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2023 23:32:17 UTC
+ Last Updated on 14/05/2023 00:46:42 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
