@@ -56,7 +56,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 552.4 kB Used in GitHub's Storage 
+> 📦 552.3 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2023
  > 
@@ -121,7 +121,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2023 11:32:13 UTC
+ Last Updated on 25/05/2023 12:41:07 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
