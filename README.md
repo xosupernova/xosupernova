@@ -93,17 +93,16 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Bash                     55 mins             █████████████████████░░░░   82.56 % 
-Shell Script             11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-scripts                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +121,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2023 23:32:36 UTC
+ Last Updated on 02/06/2023 00:47:52 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
