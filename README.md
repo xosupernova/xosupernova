@@ -62,7 +62,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -121,7 +121,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2023 13:32:14 UTC
+ Last Updated on 04/06/2023 14:32:53 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
