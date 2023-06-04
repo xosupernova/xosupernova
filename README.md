@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,7 +121,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2023 12:39:20 UTC
+ Last Updated on 04/06/2023 13:32:14 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
