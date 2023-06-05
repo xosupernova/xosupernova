@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,16 +93,20 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     24 mins             █████████████░░░░░░░░░░░░   52.82 % 
+JavaScript               16 mins             █████████░░░░░░░░░░░░░░░░   35.23 % 
+AUTO_DETECTED            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+the-bot                  46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +125,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IAmTheRealLuna/IAmTheRealLuna/master/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2023 23:32:25 UTC
+ Last Updated on 05/06/2023 00:47:09 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
