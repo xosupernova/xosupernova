@@ -1,4 +1,4 @@
-## Hey, I'm [Nova!](https://novas.quest) <img src="https://raw.githubusercontent.com/xosupernova/master/wave.gif" width="30px">
+## Hey, I'm [Nova!](https://novas.quest) <img src="https://raw.githubusercontent.com/xosupernova/xosupernova/master/wave.gif" width="30px">
 
 <details><summary>Info</summary>
 <p>
