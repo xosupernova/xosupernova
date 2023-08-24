@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -129,7 +129,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2023 11:32:22 UTC
+ Last Updated on 24/08/2023 12:39:15 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
