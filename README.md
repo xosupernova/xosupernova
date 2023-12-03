@@ -50,6 +50,8 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -64,6 +66,45 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+🌃 Evening                236 commits         ████████████░░░░░░░░░░░░░   47.68 % 
+🌙 Night                  173 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Tuesday                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Thursday                 154 commits         ████████░░░░░░░░░░░░░░░░░   31.11 % 
+Friday                   97 commits          █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Saturday                 28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Sunday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -81,7 +122,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2023 01:48:20 UTC
+ Last Updated on 03/12/2023 02:36:05 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
