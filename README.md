@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,16 +93,20 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   32 mins             ██████████████████░░░░░░░   71.73 % 
+Text                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+assessment-scripts       44 mins             ████████████████████████░   97.17 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +126,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2023 00:46:37 UTC
+ Last Updated on 12/12/2023 01:48:06 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
