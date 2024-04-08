@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,17 +91,18 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 17 mins             ██████████████████░░░░░░░   70.26 % 
-YAML                     7 mins              ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+YAML                     28 mins             ███████████████░░░░░░░░░░   61.92 % 
+Markdown                 17 mins             ██████████░░░░░░░░░░░░░░░   38.08 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DockerFiles              25 mins             █████████████████████████   100.00 % 
+DockerFiles              25 mins             ██████████████░░░░░░░░░░░   54.20 % 
+Unknown Project          21 mins             ███████████░░░░░░░░░░░░░░   45.80 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +122,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2024 23:32:44 UTC
+ Last Updated on 08/04/2024 00:46:35 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
