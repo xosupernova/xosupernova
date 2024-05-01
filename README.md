@@ -58,8 +58,6 @@
 
 > 📦 557.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -122,7 +120,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2024 11:32:33 UTC
+ Last Updated on 01/05/2024 12:40:07 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
