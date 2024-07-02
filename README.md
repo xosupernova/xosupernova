@@ -93,18 +93,16 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     2 mins              ██████████████░░░░░░░░░░░   54.28 % 
-JSON                     2 mins              ███████████░░░░░░░░░░░░░░   43.96 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portfolio                5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +122,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2024 23:32:41 UTC
+ Last Updated on 02/07/2024 00:46:43 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
