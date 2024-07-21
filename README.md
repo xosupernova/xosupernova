@@ -58,8 +58,6 @@
 
 > 📦 557.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -93,22 +91,16 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     17 mins             ████████░░░░░░░░░░░░░░░░░   30.67 % 
-Astro                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Benova                   47 mins             █████████████████████░░░░   85.52 % 
-Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-astrowind                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +120,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2024 23:32:31 UTC
+ Last Updated on 21/07/2024 00:46:57 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
