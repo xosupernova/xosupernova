@@ -50,13 +50,13 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 557.7 kB Used in GitHub's Storage 
+> 📦 557.8 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2024
  > 
@@ -93,16 +93,21 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 10 mins             █████████████████████████   100.00 % 
+JSON                     52 mins             ██████████░░░░░░░░░░░░░░░   41.32 % 
+Astro                    29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+JavaScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-.github-private          10 mins             █████████████████████████   100.00 % 
+Benova                   2 hrs 7 mins        █████████████████████████   99.80 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +127,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2024 23:32:28 UTC
+ Last Updated on 11/08/2024 00:47:07 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
