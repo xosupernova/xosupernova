@@ -93,21 +93,16 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               2 hrs 35 mins       ███████████████████████░░   91.73 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tom-bott                 2 hrs 48 mins       █████████████████████████   98.98 % 
-tom-api                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,7 +122,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2024 23:32:16 UTC
+ Last Updated on 30/09/2024 00:46:55 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
