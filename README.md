@@ -66,6 +66,45 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                95 commits          █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+🌃 Evening                237 commits         ████████████░░░░░░░░░░░░░   46.93 % 
+🌙 Night                  173 commits         █████████░░░░░░░░░░░░░░░░   34.26 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Tuesday                  63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Wednesday                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Thursday                 154 commits         ████████░░░░░░░░░░░░░░░░░   30.50 % 
+Friday                   97 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Saturday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Sunday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -83,7 +122,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 02:02:39 UTC
+ Last Updated on 16/11/2024 02:47:52 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
