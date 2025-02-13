@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -127,7 +127,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 01:59:59 UTC
+ Last Updated on 13/02/2025 02:45:33 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
