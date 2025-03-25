@@ -58,6 +58,8 @@
 
 > 📦 561.7 kB Used in GitHub's Storage 
  > 
+> 🏆 13 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -91,21 +93,16 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     1 hr 12 mins        █████████████████░░░░░░░░   67.62 % 
-Vue.js                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-garfield_bot             1 hr 21 mins        ███████████████████░░░░░░   75.71 % 
-portfolio                25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,7 +122,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2025 00:47:17 UTC
+ Last Updated on 25/03/2025 02:05:22 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
