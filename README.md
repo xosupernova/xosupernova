@@ -56,7 +56,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 565.4 kB Used in GitHub's Storage 
+> 📦 565.5 kB Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2025
  > 
@@ -93,20 +93,16 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               2 mins              ███████████░░░░░░░░░░░░░░   43.69 % 
-JSON                     1 min               ██████████░░░░░░░░░░░░░░░   41.30 % 
-Vue.js                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portfolio                4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,7 +122,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 23:35:23 UTC
+ Last Updated on 04/07/2025 00:47:37 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
