@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,16 +93,22 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 20 mins       █████████████████░░░░░░░░   67.96 % 
+CSS                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Vue.js                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+portfolio-tan            2 hrs 50 mins       █████████████████████░░░░   82.26 % 
+portfolio-next           23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+portfolio                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +128,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 23:34:48 UTC
+ Last Updated on 12/08/2025 00:47:30 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
