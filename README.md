@@ -58,7 +58,7 @@
 
 > 📦 565.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 20 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -93,22 +93,16 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       █████████████████░░░░░░░░   67.96 % 
-CSS                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Vue.js                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portfolio-tan            2 hrs 50 mins       █████████████████████░░░░   82.26 % 
-portfolio-next           23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-portfolio                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +122,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 00:47:32 UTC
+ Last Updated on 19/08/2025 02:10:16 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
