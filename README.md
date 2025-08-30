@@ -58,8 +58,6 @@
 
 > 📦 566.9 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -127,7 +125,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 02:02:09 UTC
+ Last Updated on 30/08/2025 02:48:08 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
