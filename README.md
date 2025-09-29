@@ -3,12 +3,12 @@
 <details><summary>Info</summary>
 <p>
 
-- 🔭 I’m currently working on [HyberHost](https://hyberhost.com/).
+- 🔭 I’m currently working on [Voxtl](https://voxtl.com/).
 - 🌱 I’m currently learning TypeScript / C#.
 - 🏫 I’m currently studying [BSc (Honours) Computing and IT (Communications and Networking)](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-communications-networking-q62-cnet)
 - 💬 Ask me about Game Hosting.
 - 📫 How to reach me: **COMING SOON**
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: They/Them
 - 😎 Fun fact: I spend almost 12 hours listening songs every day.
 </p>
 </details>
@@ -16,11 +16,11 @@
 <details><summary>My Socials</summary>
 <p>
 
-<!-- [![Twitter: HeyJack0001](https://img.shields.io/twitter/follow/HeyJack0001?style=social)](https://twitter.com/HeyJack0001) -->
-<!-- [![Linkedin: HeyJack0001](https://img.shields.io/badge/-HeyJack0001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HeyJack0001/)](https://www.linkedin.com/in/HeyJack0001/) -->
+[![Twitter: xo__supernova](https://img.shields.io/twitter/follow/xo__supernova?style=social)](https://twitter.com/xo__supernova)
+[![Linkedin: xo_supernova](https://img.shields.io/badge/-xo_supernova-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/xo_supernova/)](https://www.linkedin.com/in/xo_supernova/)
 [![GitHub xosupernova](https://img.shields.io/github/followers/xosupernova?label=follow&style=social)](https://github.com/xosupernova)
-[![Website](https://img.shields.io/badge/PortfolioWebsite-lunas.quest-2648ff?style=flat-square&logo=google-chrome)](https://lunas.quest/)
-<!-- [![discord](https://img.shields.io/badge/Discord-HeyJack%230001-7289DA?logo=discord)](https://discordapp.com/users/203317216106512384) -->
+[![Website](https://img.shields.io/badge/Portfolio-xosupernova.xyz-2648ff?style=flat-square&logo=htmx)](https://xosupernova.xyz/)
+[![discord](https://img.shields.io/badge/Discord-xo_supernova-7289DA?logo=discord)](https://discordapp.com/users/895595833540636682)
 </p>
 </details>
 
@@ -41,7 +41,7 @@
 <p>
 
 <a href="https://github.com/xosupernova">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xosupernova&show_icons=true&theme=dark&line_height=27" alt="Luna's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=xosupernova&show_icons=true&theme=dark&line_height=27" alt="Nova's github stats"/>
 </a>
 </p>
 </details>
