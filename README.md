@@ -50,8 +50,6 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -93,18 +91,16 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ████████████████████████░   95.33 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bot                      39 mins             ██████████████░░░░░░░░░░░   55.19 % 
-web                      32 mins             ███████████░░░░░░░░░░░░░░   44.81 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +120,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 12:14:52 UTC
+ Last Updated on 01/11/2025 12:12:15 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
