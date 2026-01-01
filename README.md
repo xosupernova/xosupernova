@@ -50,7 +50,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,7 +58,7 @@
 
 > 📦 559.4 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,15 +93,15 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     46 mins             ████████████████████████░   95.52 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+YAML                     46 mins             ████████████████████████░   95.57 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
 VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          42 mins             ██████████████████████░░░   87.90 % 
-media-stack              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Unknown Project          42 mins             ██████████████████████░░░   87.00 % 
+media-stack              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 
 💻 Operating System: 
 Windows                  48 mins             █████████████████████████   100.00 % 
@@ -124,7 +124,7 @@ PowerShell               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 12:15:17 UTC
+ Last Updated on 01/01/2026 12:15:30 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
