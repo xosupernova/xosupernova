@@ -93,18 +93,16 @@ Sunday                   40 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   6 mins              ███████████████████░░░░░░   75.95 % 
-PowerShell               2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Downloads                6 mins              ███████████████████░░░░░░   75.95 % 
-Unknown Project          2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +122,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xosupernova/xosupernova/master/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 13:15:40 UTC
+ Last Updated on 27/05/2026 13:27:04 UTC
 <!--END_SECTION:waka-->
 </p>
 </details>
